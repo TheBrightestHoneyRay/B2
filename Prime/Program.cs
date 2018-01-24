@@ -17,6 +17,8 @@ namespace Prime
             return true;
         }
 
+        // comment
+
         static void Main(string[] args)
         {
             for(int i = 0; i < args.Length; i++)
